@@ -1,0 +1,905 @@
+fileFormatVersion: 2
+guid: daea04b065a9a40f38300bb867ec8fcd
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: adventure-of-link-sprite_0
+    21300002: adventure-of-link-sprite_1
+    21300004: adventure-of-link-sprite_2
+    21300006: adventure-of-link-sprite_3
+    21300008: adventure-of-link-sprite_4
+    21300010: adventure-of-link-sprite_5
+    21300012: adventure-of-link-sprite_6
+    21300014: adventure-of-link-sprite_7
+    21300016: adventure-of-link-sprite_8
+    21300018: adventure-of-link-sprite_9
+    21300020: adventure-of-link-sprite_10
+    21300022: adventure-of-link-sprite_11
+    21300024: adventure-of-link-sprite_12
+    21300026: adventure-of-link-sprite_13
+    21300028: adventure-of-link-sprite_14
+    21300030: adventure-of-link-sprite_15
+    21300032: adventure-of-link-sprite_16
+    21300034: adventure-of-link-sprite_17
+    21300036: adventure-of-link-sprite_18
+    21300038: adventure-of-link-sprite_19
+    21300040: adventure-of-link-sprite_20
+    21300042: adventure-of-link-sprite_21
+    21300044: adventure-of-link-sprite_22
+    21300046: adventure-of-link-sprite_23
+    21300048: adventure-of-link-sprite_24
+    21300050: adventure-of-link-sprite_25
+    21300052: adventure-of-link-sprite_26
+    21300054: adventure-of-link-sprite_27
+    21300056: adventure-of-link-sprite_28
+    21300058: adventure-of-link-sprite_29
+    21300060: adventure-of-link-sprite_30
+    21300062: adventure-of-link-sprite_31
+    21300064: adventure-of-link-sprite_32
+    21300066: adventure-of-link-sprite_33
+    21300068: adventure-of-link-sprite_34
+    21300070: adventure-of-link-sprite_35
+    21300072: adventure-of-link-sprite_36
+    21300074: adventure-of-link-sprite_37
+    21300076: adventure-of-link-sprite_38
+    21300078: adventure-of-link-sprite_39
+    21300080: adventure-of-link-sprite_40
+    21300082: adventure-of-link-sprite_41
+    21300084: adventure-of-link-sprite_42
+    21300086: adventure-of-link-sprite_43
+    21300088: adventure-of-link-sprite_44
+    21300090: adventure-of-link-sprite_45
+    21300092: adventure-of-link-sprite_46
+    21300094: adventure-of-link-sprite_47
+    21300096: adventure-of-link-sprite_48
+    21300098: adventure-of-link-sprite_49
+    21300100: adventure-of-link-sprite_50
+    21300102: adventure-of-link-sprite_51
+    21300104: adventure-of-link-sprite_52
+    21300106: adventure-of-link-sprite_53
+    21300108: adventure-of-link-sprite_54
+    21300110: adventure-of-link-sprite_55
+    21300112: adventure-of-link-sprite_56
+    21300114: adventure-of-link-sprite_57
+    21300116: adventure-of-link-sprite_58
+    21300118: adventure-of-link-sprite_59
+    21300120: adventure-of-link-sprite_60
+    21300122: adventure-of-link-sprite_61
+    21300124: adventure-of-link-sprite_62
+    21300126: adventure-of-link-sprite_63
+    21300128: adventure-of-link-sprite_64
+    21300130: adventure-of-link-sprite_65
+    21300132: adventure-of-link-sprite_66
+    21300134: adventure-of-link-sprite_67
+    21300136: adventure-of-link-sprite_68
+    21300138: adventure-of-link-sprite_69
+    21300140: adventure-of-link-sprite_70
+    21300142: adventure-of-link-sprite_71
+    21300144: adventure-of-link-sprite_72
+    21300146: adventure-of-link-sprite_73
+    21300148: adventure-of-link-sprite_74
+    21300150: adventure-of-link-sprite_75
+    21300152: adventure-of-link-sprite_76
+    21300154: adventure-of-link-sprite_77
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: adventure-of-link-sprite_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 358
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 358
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 359
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 358
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 358
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 359
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_6
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 358
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 358
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 321
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 319
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_11
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 318
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_12
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 318
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_13
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 319
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_14
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 321
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_15
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 321
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 280
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 279
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_18
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 278
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 278
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_20
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 278
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_21
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 278
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_22
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 279
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_23
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 280
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 238
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 238
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_26
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 239
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_27
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 238
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_28
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 238
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 239
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_30
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 238
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_31
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 238
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 201
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_34
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 199
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_35
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 198
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_36
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 198
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_37
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 199
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_38
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 201
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_39
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 201
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 160
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_41
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 159
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_42
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 158
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 158
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_44
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 158
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_45
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 158
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_46
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 159
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_47
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_48
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 118
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 118
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_50
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 119
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_51
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 118
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_52
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 118
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_53
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 119
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_54
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 118
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_55
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 118
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_57
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 81
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_58
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 79
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_59
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 78
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_60
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 78
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_61
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 79
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_62
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 81
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_63
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 81
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_64
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3
+        width: 16
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_65
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 39
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_66
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_67
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 38
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_68
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_69
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 38
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_70
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_71
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 38
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_72
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_73
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_74
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 38
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_75
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 39
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_76
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: adventure-of-link-sprite_77
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 3
+        width: 16
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
