@@ -1,6 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+
+
+
 public class RobotControllerScript : MonoBehaviour 
 {
 	public float maxSpeed = 1f;
