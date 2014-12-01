@@ -28,7 +28,7 @@ public class MenuObject : MonoBehaviour {
 
 		else {
 
-			Application.LoadLevel(1);
+			Application.LoadLevel("MapOne");
 
 		}
 

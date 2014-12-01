@@ -1,9 +1,10 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class NewBehaviourScript : MonoBehaviour {
+public class Entity : MonoBehaviour {
 
-	// Use this for initialization
+	public float speed;
+
 	void Start () {
 	
 	}

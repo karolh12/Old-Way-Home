@@ -6,7 +6,7 @@ using System.Collections;
 
 public class RobotControllerScript : MonoBehaviour 
 {
-	public float maxSpeed = 1f;
+	public float maxSpeed = 0.1f;
 	bool facingRight = true;
 	
 	Animator anim;

@@ -6,6 +6,7 @@ TextureImporter:
     21300002: SNES - Legend of Zelda A Link to the Past - Forest Entrance_1
     21300004: SNES - Legend of Zelda A Link to the Past - Forest Entrance_2
     21300006: SNES - Legend of Zelda A Link to the Past - Forest Entrance_3
+    21300008: SNES - Legend of Zelda A Link to the Past - Forest Entrance_3
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -70,10 +71,20 @@ TextureImporter:
     - name: SNES - Legend of Zelda A Link to the Past - Forest Entrance_3
       rect:
         serializedVersion: 2
-        x: 181
+        x: 365
         y: 322
-        width: 330
-        height: 190
+        width: 37
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SNES - Legend of Zelda A Link to the Past - Forest Entrance_3
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 482
+        width: 37
+        height: 30
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
